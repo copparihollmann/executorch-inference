@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# ignore models
+*.pte
+models/*
+
+# build
+build/
